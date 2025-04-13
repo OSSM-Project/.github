@@ -9,7 +9,9 @@
 ---
 
 **[Server Repository](https://github.com/OSSM-Project/OSSM-Server)**
+
 **[Client Repository](https://github.com/OSSM-Project/OSSM-Client)**
+
 **[Documentation](https://ossm-project.github.io)**
 
 ---
